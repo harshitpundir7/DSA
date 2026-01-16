@@ -6,5 +6,5 @@
 **Basic Iterations in Linked List** ✅
 **Reverse a Linked List**✅
 **Merge Two Sorted Lists**✅
-** Middle of the Linked List**✅
+**Middle of the Linked List**✅
 **Remove Nth Node From End of List**✅
