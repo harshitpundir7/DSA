@@ -1,0 +1,1 @@
+// the brute for idea is simple that we have to first count the number of nodes in the linked list and the half the numbe and again restart from the begining and count the the node and find the middle of the linked list.
