@@ -10,4 +10,8 @@
 **Merge Two Sorted Lists** ✅<br>
 **Middle of the Linked List** ✅<br>
 **Remove Nth Node From End of List** ✅
+📅 **Date:** 17 January 2026<br>
+**Add Two Numbers In A Linked List** ✅<br>
+**Delete Node** ✅<br>
+**Intersection Of two Linked List**
 
