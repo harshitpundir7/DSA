@@ -13,5 +13,11 @@
 📅 **Date:** 17 January 2026<br>
 **Add Two Numbers In A Linked List** ✅<br>
 **Delete Node** ✅<br>
-**Intersection Of two Linked List**
+**Intersection Of two Linked List**<br>
+📅 **Date:** 18 January 2026<br>
+**Find the starting point of the Loop of LinkedList** ✅<br>
+**Check if a LinkedList is palindrome or not.** ✅<br>
+**Detect a cycle in Linked List**<br>
+**Reverse a LinkedList in groups of size k.**<br>
+
 
