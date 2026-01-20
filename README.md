@@ -18,6 +18,6 @@
 **Find the starting point of the Loop of LinkedList** ✅<br>
 **Check if a LinkedList is palindrome or not.** ✅<br>
 **Detect a cycle in Linked List**✅<br>
-**Reverse a LinkedList in groups of size k**✅<br>
+**Reverse a LinkedList in groups of size k**✅✅<br>
 
 
